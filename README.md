@@ -1,3 +1,14 @@
+- [Bose S1 Pro+ All-in-one Powered Portable Bluetooth Speaker](https://www.amazon.com/Bose-Powered-Portable-Bluetooth-Wireless/dp/B0BZWT5FRR)
+- [JBL EON One Compact (120 W RMS, Portable PA System)](https://www.amazon.com/JBL-EON-ONE-Compact-Rechargeable/dp/B0DX3D3Z2H)
+- [Electro-Voice EVERSE 8 8″ 2-Way Battery-Powered Loudspeaker](https://www.amazon.com/Electro-Voice-EVERSE8W-Battery-Powered-ELE/dp/B09RRTC8D6/ref=asc_df_B09RRTC8D6)
+- [SOUNDBOKS (Gen. 3) 216 W RMS, IP43 Weather-Resistant](https://www.amazon.com/SOUNDBOKS-Gen-3-Bluetooth-Performance-Swappable/dp/B09MQRMDGP)
+- [Roland Cube Street EX 2×8″ 50 W Battery-Powered Combo Amp](https://www.amazon.com/dp/B00JMU1RAG)
+- [Mackie Thump GO 8″ Portable Bluetooth Battery-Powered Loudspeaker](https://www.amazon.com/Mackie-Portable-Bluetooth-Battery-Powered-Loudspeaker/dp/B09JKVB9R6/ref=asc_df_B09JKVB9R6)
+- [Behringer Europort MPA40BT 40 W All-in-One Portable PA System](https://www.amazon.com/Behringer-MPA40BT-BEHRINGER/dp/B00EMDNLUM)
+- [Samson Expedition XP106w 100 W Portable Bluetooth PA System](https://www.amazon.com/Samson-Expedition-Rechargeable-Microphone-Bluetooth/dp/B00HXE4AWK)
+- [ION Audio Block Rocker Plus 100 W Bluetooth Outdoor Speaker with Wheels](https://www.amazon.com/ION-Audio-Block-Rocker-Plus/dp/B07C32XSH1)
+
+
 # PA Speaker Detailed Report
 
 **Epic Public Address Systems** • May 2025
