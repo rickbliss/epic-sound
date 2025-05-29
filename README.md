@@ -1,6 +1,6 @@
 # Epic Public Address Systems
 
-> **May 2025** - A comprehensive guide to the best portable PA systems for live performances, events, and outdoor activities.
+> **May 2025** -Portable PA systems
 
 ## Quick Comparison Table
 
