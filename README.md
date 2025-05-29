@@ -1,3 +1,10 @@
+
+# PA Speaker Detailed Report
+
+**Epic Public Address Systems** • May 2025
+
+Below is the detailed report of portable PA speakers. This table includes key information like wattage, battery life, connectivity options, and pricing details which can be useful for planning events that require quality audio equipment.
+
 - [Bose S1 Pro+ All-in-one Powered Portable Bluetooth Speaker](https://www.amazon.com/Bose-Powered-Portable-Bluetooth-Wireless/dp/B0BZWT5FRR)
 - [JBL EON One Compact (120 W RMS, Portable PA System)](https://www.amazon.com/JBL-EON-ONE-Compact-Rechargeable/dp/B0DX3D3Z2H)
 - [Electro-Voice EVERSE 8 8″ 2-Way Battery-Powered Loudspeaker](https://www.amazon.com/Electro-Voice-EVERSE8W-Battery-Powered-ELE/dp/B09RRTC8D6/ref=asc_df_B09RRTC8D6)
@@ -9,11 +16,6 @@
 - [ION Audio Block Rocker Plus 100 W Bluetooth Outdoor Speaker with Wheels](https://www.amazon.com/ION-Audio-Block-Rocker-Plus/dp/B07C32XSH1)
 
 
-# PA Speaker Detailed Report
-
-**Epic Public Address Systems** • May 2025
-
-Below is the detailed report of portable PA speakers. This table includes key information like wattage, battery life, connectivity options, and pricing details which can be useful for planning events that require quality audio equipment.
 
 <div style="overflow-x: auto;">
 
