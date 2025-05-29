@@ -4,6 +4,16 @@
 
 ## Quick Comparison Table
 
+| **Brand / Model**       | **Power** | **Battery Life** | **Weight** | **Price** | **Best For**  | **Pairing Capability**                                                             | **Mic Inputs**                      | **Outdoor Suitability**      |
+| ----------------------- | --------- | ---------------- | ---------- | --------- | ------------- | ---------------------------------------------------------------------------------- | ----------------------------------- | ---------------------------- |
+| **Bose S1 Pro+**        | 150W      | Up to 11 hrs     | 14.4 lbs   | \$649     | Portability   | Dual Wireless Streaming via Bose Music App                                         | 2 combo (XLR-¼″)                    | Yes (not weatherproof)       |
+| **JBL EON One Compact** | 120W      | Up to 12 hrs     | 17.6 lbs   | \$549     | Microphones   | Wired pass-thru; control up to 4 units via JBL Compact Connect App                 | 2 combo (XLR-¼″) with phantom power | Yes (not weatherproof)       |
+| **EV EVERSE 8**         | 400W      | Up to 12 hrs     | 16.8 lbs   | \$799     | Sound Quality | True Wireless Stereo via Bluetooth; group up to 6 units with QuickSmart Mobile App | 2 combo (XLR-¼″) with phantom power | Yes (IP43 weather-resistant) |
+| **SOUNDBOKS Gen 3**     | 216W      | Up to 40 hrs     | 34.0 lbs   | \$999     | Battery Life  | SKAA TeamUp wireless pairing (up to 5 units)                                       | 2 combo (XLR-¼″)                    | Yes (splash-proof)           |
+| **Mackie Thump GO**     | 100W      | Up to 12 hrs     | 17.6 lbs   | \$349     | Budget Option | Wired XLR thru chaining                                                            | 2 combo (XLR-¼″)                    | Yes (outdoor EQ preset)      |
+| **Behringer MPA40BT**   | 40W       | Up to 12 hrs     | 18.1 lbs   | \$199     | Best Value    | None                                                                               | 2 combo (XLR-¼″)                    | Yes (portable design)        |
+
+
 | Brand/Model | Power | Battery | Weight | Price | Best For |
 |-------------|-------|---------|--------|-------|----------|
 | Bose S1 Pro+ | 150W | 11 hrs | 14.4 lbs | $649 | Portability |
