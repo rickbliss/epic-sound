@@ -19,3 +19,23 @@ Below is the detailed report of portable PA speakers. This table includes key in
 | **ION Audio Block Rocker Plus** | 100 W peak                     | 35–50 hrs                                         | 20.7             | Bluetooth; 1 × 3.5 mm aux; AM/FM radio; USB out                            | None                                                   | 1 × ¼″ mic (included)                          | Yes (wheels & handle)                           | Yes                 | \$199            | \$398            | —                                             | Bass-boosted; minimal controls; no stereo link   |
 
 </div>
+Bose S1 Pro+ All-in-one Powered Portable Bluetooth Speaker
+Amazon
+
+JBL EON One Compact (120 W RMS, Portable PA System)
+Amazon
+
+Electro-Voice EVERSE 8 8″ 2-Way Battery-Powered Loudspeaker
+Amazon
+
+SOUNDBOKS (Gen. 3) 216 W RMS, IP43 Weather-Resistant
+
+Roland Cube Street EX 2×8″ 50 W Battery-Powered Combo Amp
+
+Mackie Thump GO 8″ Portable Bluetooth Battery-Powered Loudspeaker
+
+Behringer Europort MPA40BT 40 W All-in-One Portable PA System
+
+Samson Expedition XP106w 100 W Portable Bluetooth PA System
+
+ION Audio Block Rocker Plus 100 W Bluetooth Outdoor Speaker with Wheels
