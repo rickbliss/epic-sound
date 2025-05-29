@@ -152,3 +152,6 @@ Found a better PA system or updated pricing? Feel free to contribute:
 ## License
 
 This project documentation is available under the MIT License.
+## License
+
+This project documentation is available under the MIT License.
