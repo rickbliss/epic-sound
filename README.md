@@ -5,7 +5,8 @@
 ## Featured PA Systems
 
 ### 1. Bose S1 Pro+ - Most Portable
-![Bose S1 Pro+](https://images.unsplash.com/photo-1558618666-fccd862c8d5d?w=600&h=400&fit=crop&q=80)
+![image](https://github.com/user-attachments/assets/8c6b7db5-7748-4fdf-8c30-e6e68bdec232)
+
 
 **Power:** 150W | **Battery:** Up to 11 hours | **Weight:** 14.4 lbs | **Price:** $649
 
@@ -17,7 +18,8 @@
 ---
 
 ### 2. JBL EON One Compact - Best Mic Support
-![JBL EON One Compact](https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&h=400&fit=crop&q=80)
+![image](https://github.com/user-attachments/assets/d39239ed-9de4-48c6-811a-160803401eee)
+
 
 **Power:** 120W RMS | **Battery:** Up to 12 hours | **Weight:** 17.6 lbs | **Price:** $549
 
@@ -29,7 +31,8 @@
 ---
 
 ### 3. Electro-Voice EVERSE 8 - Best Sound Quality & Stereo Pairing
-![Electro-Voice EVERSE 8](https://images.unsplash.com/photo-1518609878373-06d740f60d8b?w=600&h=400&fit=crop&q=80)
+![image](https://github.com/user-attachments/assets/f827b2ae-d049-4418-af5e-0d6c19a6a6e0)
+
 
 **Power:** 400W Peak | **Battery:** Up to 12 hours | **Weight:** 16.8 lbs | **Price:** $799
 
@@ -41,7 +44,8 @@
 ---
 
 ### 4. SOUNDBOKS (Gen. 3) - Best Battery Life
-![SOUNDBOKS Gen 3](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=400&fit=crop&q=80)
+![image](https://github.com/user-attachments/assets/3ba43895-69e7-43ad-8072-744a2a052daa)
+
 
 **Power:** 216W RMS, 126 dB SPL | **Battery:** 5-40 hours | **Weight:** 34.0 lbs | **Price:** $999
 
@@ -53,7 +57,8 @@
 ---
 
 ### 5. Roland Cube Street EX
-![Roland Cube Street EX](https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&h=400&fit=crop&q=80)
+![image](https://github.com/user-attachments/assets/5c0a8fce-0a4b-4287-83f1-6a8e89089bff)
+
 
 **Power:** 50W (25W × 2) | **Battery:** 5-20 hours (AA) | **Weight:** 16.4 lbs | **Price:** $599
 
@@ -65,7 +70,8 @@
 ---
 
 ### 6. Mackie Thump GO
-![Mackie Thump GO](https://images.unsplash.com/photo-1558618666-fccd862c8d5d?w=600&h=400&fit=crop&q=80)
+![image](https://github.com/user-attachments/assets/d1e617b8-12a3-43fd-9900-367108346666)
+
 
 **Power:** 100W RMS (200W Peak) | **Battery:** Up to 12 hours | **Weight:** 17.6 lbs | **Price:** $349
 
@@ -77,7 +83,8 @@
 ---
 
 ### 7. Behringer Europort MPA40BT - Best Value for Money
-![Behringer Europort MPA40BT](https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=400&fit=crop&q=80)
+![image](https://github.com/user-attachments/assets/3905340b-3407-4792-be64-a4bb04a1a9f1)
+
 
 **Power:** 40W | **Battery:** Up to 12 hours | **Weight:** 18.1 lbs | **Price:** $199
 
@@ -89,7 +96,8 @@
 ---
 
 ### 8. Samson Expedition XP106w
-![Samson Expedition XP106w](https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&h=400&fit=crop&q=80)
+![image](https://github.com/user-attachments/assets/cc738b30-8d66-419a-9331-e03a8cb44a1e)
+
 
 **Power:** 100W | **Battery:** Up to 20 hours | **Weight:** 16.3 lbs | **Price:** $329
 
@@ -101,7 +109,8 @@
 ---
 
 ### 9. ION Audio Block Rocker Plus
-![ION Audio Block Rocker Plus](https://images.unsplash.com/photo-1558618666-fccd862c8d5d?w=600&h=400&fit=crop&q=80)
+![image](https://github.com/user-attachments/assets/2bbbc460-3e29-4f48-9a62-3fa4ff334f0f)
+
 
 **Power:** 100W Peak | **Battery:** 35-50 hours | **Weight:** 20.7 lbs | **Price:** $199
 
