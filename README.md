@@ -2,6 +2,17 @@
 
 > **May 2025** - A comprehensive guide to the best portable PA systems for live performances, events, and outdoor activities.
 
+## Quick Comparison Table
+
+| Brand/Model | Power | Battery | Weight | Price | Best For |
+|-------------|-------|---------|--------|-------|----------|
+| Bose S1 Pro+ | 150W | 11 hrs | 14.4 lbs | $649 | Portability |
+| JBL EON One Compact | 120W | 12 hrs | 17.6 lbs | $549 | Microphones |
+| EV EVERSE 8 | 400W | 12 hrs | 16.8 lbs | $799 | Sound Quality |
+| SOUNDBOKS Gen 3 | 216W | 40 hrs | 34.0 lbs | $999 | Battery Life |
+| Mackie Thump GO | 100W | 12 hrs | 17.6 lbs | $349 | Budget Option |
+| Behringer MPA40BT | 40W | 12 hrs | 18.1 lbs | $199 | Best Value |
+
 ## Featured PA Systems
 
 ### 1. Bose S1 Pro+ - Most Portable
@@ -119,28 +130,7 @@
 
 [View on Amazon](https://www.amazon.com/ION-Audio-Block-Rocker-Plus/dp/B07C32XSH1)
 
-## Quick Comparison Table
 
-| Brand/Model | Power | Battery | Weight | Price | Best For |
-|-------------|-------|---------|--------|-------|----------|
-| Bose S1 Pro+ | 150W | 11 hrs | 14.4 lbs | $649 | Portability |
-| JBL EON One Compact | 120W | 12 hrs | 17.6 lbs | $549 | Microphones |
-| EV EVERSE 8 | 400W | 12 hrs | 16.8 lbs | $799 | Sound Quality |
-| SOUNDBOKS Gen 3 | 216W | 40 hrs | 34.0 lbs | $999 | Battery Life |
-| Mackie Thump GO | 100W | 12 hrs | 17.6 lbs | $349 | Budget Option |
-| Behringer MPA40BT | 40W | 12 hrs | 18.1 lbs | $199 | Best Value |
-
-## Installation & Setup
-
-```bash
-# Clone this repository
-git clone https://github.com/rickbliss/epic-sound.git
-
-# Navigate to project directory
-cd epic-sound
-
-# View the latest PA system recommendations
-cat README.md
 ```
 
 ## Usage Recommendations
