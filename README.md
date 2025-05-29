@@ -2,46 +2,58 @@
 # PA Speaker Detailed Report
 
 **Epic Public Address Systems** • May 2025
-## Product Links with Images
-
-- **Bose S1 Pro+ All-in-one Powered Portable Bluetooth Speaker**  
-  ![Bose S1 Pro+](https://via.placeholder.com/200?text=Bose+S1+Pro%2B)  
-  [View on Amazon](https://www.amazon.com/Bose-Powered-Portable-Bluetooth-Wireless/dp/B0BZWT5FRR)
-
-- **JBL EON One Compact (120 W RMS, Portable PA System)**  
-  ![JBL EON One Compact](https://via.placeholder.com/200?text=JBL+EON+One+Compact)  
-  [View on Amazon](https://www.amazon.com/JBL-EON-ONE-Compact-Rechargeable/dp/B0DX3D3Z2H)
-
-- **Electro-Voice EVERSE 8 8″ 2-Way Battery-Powered Loudspeaker**  
-  ![Electro-Voice EVERSE 8](https://via.placeholder.com/200?text=Electro-Voice+EVERSE+8)  
-  [View on Amazon](https://www.amazon.com/Electro-Voice-EVERSE8W-Battery-Powered-ELE/dp/B09RRTC8D6)
-
-- **SOUNDBOKS (Gen. 3) 216 W RMS, IP43 Weather-Resistant**  
-  ![SOUNDBOKS Gen 3](https://via.placeholder.com/200?text=SOUNDBOKS+Gen+3)  
-  [View on Amazon](https://www.amazon.com/SOUNDBOKS-Gen-3-Bluetooth-Performance-Swappable/dp/B09MQRMDGP)
-
-- **Roland Cube Street EX 2×8″ 50 W Battery-Powered Combo Amp**  
-  ![Roland Cube Street EX](https://via.placeholder.com/200?text=Roland+Cube+Street+EX)  
-  [View on Amazon](https://www.amazon.com/dp/B00JMU1RAG)
-
-- **Mackie Thump GO 8″ Portable Bluetooth Battery-Powered Loudspeaker**  
-  ![Mackie Thump GO](https://via.placeholder.com/200?text=Mackie+Thump+GO)  
-  [View on Amazon](https://www.amazon.com/Mackie-Portable-Bluetooth-Battery-Powered-Loudspeaker/dp/B09JKVB9R6)
-
-- **Behringer Europort MPA40BT 40 W All-in-One Portable PA System**  
-  ![Behringer Europort MPA40BT](https://via.placeholder.com/200?text=Behringer+MPA40BT)  
-  [View on Amazon](https://www.amazon.com/Behringer-MPA40BT-BEHRINGER/dp/B00EMDNLUM)
-
-- **Samson Expedition XP106w 100 W Portable Bluetooth PA System**  
-  ![Samson Expedition XP106w](https://via.placeholder.com/200?text=Samson+XP106w)  
-  [View on Amazon](https://www.amazon.com/Samson-Expedition-Rechargeable-Microphone-Bluetooth/dp/B00HXE4AWK)
-
-- **ION Audio Block Rocker Plus 100 W Bluetooth Outdoor Speaker with Wheels**  
-  ![ION Audio Block Rocker Plus](https://via.placeholder.com/200?text=ION+Block+Rocker+Plus)  
-  [View on Amazon](https://www.amazon.com/ION-Audio-Block-Rocker-Plus/dp/B07C32XSH1)
+- **Bose S1 Pro+**  
+  [View on Amazon](https://www.amazon.com/Bose-Powered-Portable-Bluetooth-Wireless/dp/B0BZWT5FRR)  
+  
+::contentReference[oaicite:0]{index=0}
 
 
+- **JBL EON One Compact**  
+  [View on Amazon](https://www.amazon.com/JBL-Professional-EON-ONE-Compact/dp/B07Y2LYV34)  
+  
+::contentReference[oaicite:1]{index=1}
 
+
+- **Electro-Voice EVERSE 8**  
+  [View on Amazon](https://www.amazon.com/Electro-Voice-EVERSE8US-Battery-Powered-ELE/dp/B09RRTXH23)  
+  
+::contentReference[oaicite:2]{index=2}
+
+
+- **SOUNDBOKS (Gen. 3)**  
+  [View on Amazon](https://www.amazon.com/SOUNDBOKS-Gen-3-Bluetooth-Performance-Swappable/dp/B09MQRMDGP)  
+  
+::contentReference[oaicite:3]{index=3}
+
+
+- **Roland Cube Street EX**  
+  [View on Amazon](https://www.amazon.com/4-Channel-50-Watt-Battery-Powered-Amplifier/dp/B00JMU1RAG)  
+  
+::contentReference[oaicite:4]{index=4}
+
+
+- **Mackie Thump GO**  
+  [View on Amazon](https://www.amazon.com/Mackie-Portable-Bluetooth-Battery-Powered-Loudspeaker/dp/B09JKVB9R6)  
+  
+::contentReference[oaicite:5]{index=5}
+
+
+- **Behringer Europort MPA40BT**  
+  [View on Amazon](https://www.amazon.com/Behringer-MPA40BT-BEHRINGER/dp/B00EMDNLUM)  
+  
+::contentReference[oaicite:6]{index=6}
+
+
+- **Samson Expedition XP106w**  
+  [View on Amazon](https://www.amazon.com/Samson-Expedition-Rechargeable-Microphone-Bluetooth/dp/B00HXE4AWK)  
+  
+::contentReference[oaicite:7]{index=7}
+
+
+- **ION Audio Block Rocker Plus**  
+  [View on Amazon](https://www.amazon.com/ION-Audio-Block-Rocker-Plus/dp/B07C32XSH1)  
+  
+::contentReference[oaicite:8]{index=8}
 
 <div style="overflow-x: auto;">
 
