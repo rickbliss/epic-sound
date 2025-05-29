@@ -3,7 +3,7 @@
 
 **Epic Public Address Systems** • May 2025
 
-Below is the detailed report of portable PA speakers. This table includes key information like wattage, battery life, connectivity options, and pricing details which can be useful for planning events that require quality audio equipment.
+Table includes wattage, battery life, connectivity options, and pricing details
 
 - [Bose S1 Pro+ All-in-one Powered Portable Bluetooth Speaker](https://www.amazon.com/Bose-Powered-Portable-Bluetooth-Wireless/dp/B0BZWT5FRR)
 - [JBL EON One Compact (120 W RMS, Portable PA System)](https://www.amazon.com/JBL-EON-ONE-Compact-Rechargeable/dp/B0DX3D3Z2H)
